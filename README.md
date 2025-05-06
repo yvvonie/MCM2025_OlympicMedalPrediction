@@ -21,6 +21,8 @@ We developed an Olympic medal count prediction model using ridge regression with
 - Highlights events with significant impact on medal counts, such as athletics and swimming
 - Reveals the host country advantage
 - Predicts that the United States will increase its medal count in 2028 due to the host country advantage
+![Figure_7](https://github.com/user-attachments/assets/d277cd0a-9eaf-4053-b2a1-eb12b6bcad90)
+
 
 ### "教练效应"评价分析模型 | "Coach Effect" Evaluation Model (Question 2)
 
