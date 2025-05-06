@@ -36,7 +36,7 @@ This model quantifies the impact of "great coaches" on Olympic medal outcomes th
 - Analyzes cases of several famous coaches, including Lang Ping
 - Provides recommendations on coaching investment strategies for China, UK, and USA
 
-### 进一步的见解 | Further Insights (Question 3)
+### Further Insights (Question 3)
 
 - 使用时间窗口比较方法调查"主办国"效应，证实了其积极影响
 - 应用投资回报率(ROI)分数展示新兴运动项目的潜力
