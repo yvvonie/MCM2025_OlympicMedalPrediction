@@ -1,7 +1,5 @@
-# 2025 MCM Problem C
+# 2025 MCM Problem C - Honorable Mention Award
 # Who Will Lead the Olympic Medal Count? A Prediction Based on Historical Trials
-
-**2025 MCM/ICM Problem C - Honorable Mention Award**
 
 ![Our Work](https://github.com/user-attachments/assets/c40aef70-456a-4223-bd64-e2eb037526b1)
 
